@@ -4,7 +4,7 @@
 
 Submitted by: **Baixi Guo**
 
-Time spent: **4** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -22,14 +22,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Light/Dark Mode
+- [X] Default Tips Percentage Setting
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 
-![First Completion](https://user-images.githubusercontent.com/96842497/149610753-ef3a1374-6b74-4c93-973f-281aaf737052.gif)
+![Second Completion](https://user-images.githubusercontent.com/96842497/149890435-eba6933c-8842-451f-aefc-2853a13c9ff8.gif)
 
 
 
@@ -38,6 +39,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+1. Confusion about the View Controllers' life Cycle.
+2. Don't know how to access or utilize member functions from a particular objects.
+3. Misconception of Saving and Loading data.
+4. Changing background color of the objects.
 
 ## License
 
